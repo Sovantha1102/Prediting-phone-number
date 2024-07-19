@@ -1,0 +1,12 @@
+D:\sovantha .vb\Prediting phone number\Prediting phone number\bin\Debug\Prediting phone number.exe.config
+D:\sovantha .vb\Prediting phone number\Prediting phone number\bin\Debug\Prediting phone number.exe
+D:\sovantha .vb\Prediting phone number\Prediting phone number\bin\Debug\Prediting phone number.pdb
+D:\sovantha .vb\Prediting phone number\Prediting phone number\bin\Debug\Prediting phone number.xml
+D:\sovantha .vb\Prediting phone number\Prediting phone number\obj\Debug\Prediting phone number.vbprojAssemblyReference.cache
+D:\sovantha .vb\Prediting phone number\Prediting phone number\obj\Debug\Prediting_phone_number.Formgame.resources
+D:\sovantha .vb\Prediting phone number\Prediting phone number\obj\Debug\Prediting_phone_number.Resources.resources
+D:\sovantha .vb\Prediting phone number\Prediting phone number\obj\Debug\Prediting phone number.vbproj.GenerateResource.cache
+D:\sovantha .vb\Prediting phone number\Prediting phone number\obj\Debug\Prediting phone number.vbproj.CoreCompileInputs.cache
+D:\sovantha .vb\Prediting phone number\Prediting phone number\obj\Debug\Prediting phone number.exe
+D:\sovantha .vb\Prediting phone number\Prediting phone number\obj\Debug\Prediting phone number.xml
+D:\sovantha .vb\Prediting phone number\Prediting phone number\obj\Debug\Prediting phone number.pdb
